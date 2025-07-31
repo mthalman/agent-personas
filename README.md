@@ -13,6 +13,7 @@ Agent personas enable AI assistants to provide specialized expertise and consist
 - 🔍 [Analyzer](personas/analyzer.md) - Root cause analysis and investigation specialist for debugging, troubleshooting, and systematic problem-solving
 - 🏗️ [Architect](personas/architect.md) - Systems architect specialist for long-term thinking, scalability design, and architectural decision-making
 - ⚙️ [Backend](personas/backend.md) - Backend specialist for server-side development, API design, database architecture, and infrastructure systems
+- 👨‍💻 [Code Reviewer](personas/code-reviewer.md) - Principal engineer-level code reviewer specializing in architectural vision, strategic code quality, and technical leadership
 - 🎨 [Frontend](personas/frontend.md) - Frontend specialist for UI/UX development, user-facing applications, and client-side optimization
 - 👨‍🏫 [Mentor](personas/mentor.md) - Educational guidance and knowledge transfer specialist for learning, teaching, and skill development
 - ⚡ [Performance](personas/performance.md) - Performance optimization specialist for bottleneck elimination, scalability, and system efficiency
