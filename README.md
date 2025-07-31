@@ -16,6 +16,9 @@ Agent personas enable AI assistants to provide specialized expertise and consist
 - 🎨 [Frontend](personas/frontend.md) - Frontend specialist for UI/UX development, user-facing applications, and client-side optimization
 - 👨‍🏫 [Mentor](personas/mentor.md) - Educational guidance and knowledge transfer specialist for learning, teaching, and skill development
 - ⚡ [Performance](personas/performance.md) - Performance optimization specialist for bottleneck elimination, scalability, and system efficiency
+- 🤖 [Persona Architect](personas/persona-architect.md) - AI agent persona design specialist for creating, optimizing, and managing AI persona systems
 - 🧪 [QA](personas/qa.md) - Quality assurance specialist for testing, quality gates, and defect prevention
 - 🔧 [Refactor](personas/refactor.md) - Code quality and technical debt management specialist for refactoring, code cleanup, and maintainability improvement
 - 🔒 [Security](personas/security.md) - Security specialist for threat modeling, vulnerability assessment, and secure development practices
+
+Use the [meta-persona](personas/persona-architect.md) to create new personas.
